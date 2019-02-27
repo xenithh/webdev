@@ -2428,6 +2428,29 @@ body {
     font-size: 4.25rem;
   }
 }
+.cid-rjjTZbbuKq {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #2e2e2e;
+}
+.cid-rjjTZbbuKq .line {
+  background-color: #ffffff;
+  color: #ffffff;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-rjjTZbbuKq .section-text {
+  padding: 2rem 0;
+}
+.cid-rjjTZbbuKq .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-rjjTZbbuKq .inner-container {
+    width: 100% !important;
+  }
+}
 .cid-rjiDdZdCrt {
   padding-top: 90px;
   padding-bottom: 90px;
